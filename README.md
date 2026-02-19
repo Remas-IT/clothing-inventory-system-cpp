@@ -19,3 +19,6 @@ A console based clothing inventory management system implemented in C++.
 
 ## How to Run
 Compile and run using any C++ compiler.
+
+## Author
+Student Project - Remas
